@@ -1,0 +1,10 @@
+/volumes/esdata
+/volumes/kafka-data
+/volumes/zoo-data
+/volumes/zoo-log
+
+/java-streamer/.idea
+/java-streamer/target
+
+/producer/.venv
+/producer/.vscode

@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: streamer
+  kafka:
+#    bootstrap-servers: kafka:9092
+    bootstrap-servers: localhost:29092
